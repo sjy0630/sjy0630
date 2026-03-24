@@ -1,5 +1,8 @@
 # About me 👋
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sjy0630)](https://github.com/anuraghazra/github-readme-stats)
+
+
 **FDU超级菜狗**
 
 *我向星辰下令，我停泊瞩望，我让自己登基，做风的君王*
