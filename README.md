@@ -1,26 +1,27 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&text=Su%20Jiangyu&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=%E8%BF%98%E5%9C%A8%E5%AD%A6%EF%BC%8C%E4%B9%9F%E8%BF%98%E5%9C%A8%E6%8A%98%E8%85%BE&descAlignY=58&descSize=18" alt="header" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=170&section=header&text=Su%20Jiangyu&fontSize=42&fontColor=ffffff&fontAlignY=38" alt="header" />
 
 ### 你好，我是苏姜禹 👋
 
-复旦集成电路本科生。最近在认真补数电、Verilog 和计算机体系结构，  
-偶尔也会去折腾 GPU、AI Infra、SNN 和单片机。
+复旦集成电路本科生。
 
-这里会放学习记录、小项目，以及一些“先开坑，之后一定填”的东西。
+这个账号主要用来放作业、学习笔记和一些小项目。最近在学数电、Verilog 和计算机体系结构，也会看看 GPU、AI Infra 和 SNN。
 
-**当前状态：有点想睡觉，但还是再学一会 😴**
+很多东西都还在慢慢学，仓库里可能经常出现半成品。
+
+**我想睡觉 😴**
 
 </div>
 
-## 🔧 最近在折腾
+## 最近在学
 
-- 把数电和 **Verilog** 真正学明白
-- 搞清楚 **GPU** 和 **AI Infra** 到底是怎么跑起来的
-- 偶尔看看 **SNN** 和神经形态硬件
-- 用 **Arduino / STM32** 做点能动起来的小东西
+- 数字电路、**Verilog** 和计算机体系结构
+- **GPU**、并行计算和 **AI Infra**
+- **SNN** 和神经形态硬件
+- **Arduino / STM32**
 
-## 🧰 工具箱
+## 用过的东西
 
 <div align="center">
 
@@ -32,7 +33,7 @@
 
 </div>
 
-## 📊 一些数据
+## GitHub
 
 <div align="center">
 
@@ -41,7 +42,7 @@
 
 </div>
 
-## 📈 最近的动静
+## 最近的提交
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=sjy0630&bg_color=0d1117&color=a78bfa&line=a855f7&point=ffffff&area=true&hide_border=true" />
@@ -49,7 +50,7 @@
   <img width="100%" alt="GitHub contribution activity graph" src="https://github-readme-activity-graph.vercel.app/graph?username=sjy0630&theme=tokyo-night&area=true&hide_border=true" />
 </picture>
 
-## 🐍 小蛇正在吃我的贡献格子
+## 🐍
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sjy0630/sjy0630/output/github-contribution-grid-snake-dark.svg" />
@@ -57,10 +58,4 @@
   <img width="100%" alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/sjy0630/sjy0630/output/github-contribution-grid-snake.svg" />
 </picture>
 
-<div align="center">
-
-### 先写到这里，剩下的以后再填坑。
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=105&section=footer" alt="footer" />
-
-</div>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=95&section=footer" alt="footer" />
