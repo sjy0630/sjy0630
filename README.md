@@ -2,26 +2,24 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=170&section=header&text=Su%20Jiangyu&fontSize=42&fontColor=ffffff&fontAlignY=38" alt="header" />
 
-### 你好，我是苏姜禹 👋
+### Hi, I'm Su Jiangyu 👋
 
-复旦集成电路本科生。
+I'm an undergraduate student in Integrated Circuits at Fudan University.
 
-这个账号主要用来放作业、学习笔记和一些小项目。最近在学数电、Verilog 和计算机体系结构，也会看看 GPU、AI Infra 和 SNN。
-
-很多东西都还在慢慢学，仓库里可能经常出现半成品。
+Most of the repositories here are coursework, study notes, and small projects. I'm currently learning digital logic, Verilog, computer architecture, GPU systems, AI infrastructure, and spiking neural networks.
 
 **我想睡觉 😴**
 
 </div>
 
-## 最近在学
+## Currently learning
 
-- 数字电路、**Verilog** 和计算机体系结构
-- **GPU**、并行计算和 **AI Infra**
-- **SNN** 和神经形态硬件
-- **Arduino / STM32**
+- Digital logic, **Verilog**, and computer architecture
+- **GPU architecture**, parallel computing, and **AI infrastructure**
+- **Spiking neural networks** and neuromorphic hardware
+- Embedded development with **Arduino** and **STM32**
 
-## 用过的东西
+## Tools
 
 <div align="center">
 
@@ -33,7 +31,7 @@
 
 </div>
 
-## GitHub
+## GitHub activity
 
 <div align="center">
 
@@ -42,15 +40,13 @@
 
 </div>
 
-## 最近的提交
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=sjy0630&bg_color=0d1117&color=a78bfa&line=a855f7&point=ffffff&area=true&hide_border=true" />
   <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=sjy0630&bg_color=ffffff&color=6d28d9&line=8b5cf6&point=4c1d95&area=true&hide_border=true" />
   <img width="100%" alt="GitHub contribution activity graph" src="https://github-readme-activity-graph.vercel.app/graph?username=sjy0630&theme=tokyo-night&area=true&hide_border=true" />
 </picture>
 
-## 🐍
+<br />
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sjy0630/sjy0630/output/github-contribution-grid-snake-dark.svg" />
