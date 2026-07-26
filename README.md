@@ -2,9 +2,9 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=170&section=header&text=Su%20Jiangyu&fontSize=42&fontColor=ffffff&fontAlignY=38" alt="header" />
 
-### Hi, I'm Su Jiangyu 👋
-
-I'm an undergraduate student in Integrated Circuits at Fudan University.
+<a href="https://github.com/DenverCoder1/readme-typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1200&color=8B5CF6&center=true&vCenter=true&width=720&lines=Hi%2C+I'm+Su+Jiangyu;Integrated+Circuits+undergraduate+at+Fudan;Learning+Verilog%2C+computer+architecture%2C+and+GPU+systems" alt="Typing SVG" />
+</a>
 
 Most of the repositories here are coursework, study notes, and small projects. I'm currently learning digital logic, Verilog, computer architecture, GPU systems, AI infrastructure, and spiking neural networks.
 
