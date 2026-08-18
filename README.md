@@ -8,8 +8,6 @@
 
 Most of the repositories here are coursework, study notes, and small projects. I'm currently learning digital logic, Verilog, computer architecture, GPU systems, AI infrastructure, and spiking neural networks.
 
-**我想睡觉 😴**
-
 </div>
 
 ## Currently learning
